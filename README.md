@@ -6,3 +6,4 @@ Following Android features is used:
 * Google Vision API
 * Android Storage
 * Android Camera
+* Picasso 
