@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BarcodeReader</string>
+    <string name="value_string">Value:</string>
+    <string name="size">Size:</string>
+</resources>
